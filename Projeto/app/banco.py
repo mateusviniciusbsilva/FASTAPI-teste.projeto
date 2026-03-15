@@ -1,0 +1,2 @@
+tarefas = []
+print(tarefas)
